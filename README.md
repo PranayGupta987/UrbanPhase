@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Overview  
-UrbanPhase is an AI-powered platform that predicts **traffic**, **air quality**, and **weather-driven effects** using a custom-built **Graph Neural Network (GNN)** pipeline.  
+UrbanPULSE is an AI-powered platform that predicts **traffic**, **air quality**, and **weather-driven effects** using a custom-built **Graph Neural Network (GNN)** pipeline.  
 It provides planners and researchers with a real-time map interface to visualize current city conditions and simulate future scenarios.
 
 Built end-to-end within a hackathon timeframe.
@@ -209,7 +209,7 @@ Used by the frontend to populate map layers.
 ---
 
 ## 🧑‍💻 Team
-- **Pranay Gupta** 
+- **PRANAY GUPTA** 
 - **AYUSH**
 - **ANIMESH**
 - **AVNI MAHAJAN**
