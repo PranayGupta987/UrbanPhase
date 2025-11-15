@@ -1,4 +1,4 @@
-# 🌆 UrbanPhase — AI-Driven Urban Forecasting Platform  
+# 🌆 UrbanPULSE — AI-Driven Urban Forecasting Platform  
 *A real-time city intelligence system built using Graph Neural Networks, geospatial visualization, and multi-factor urban simulation.*
 
 ---
