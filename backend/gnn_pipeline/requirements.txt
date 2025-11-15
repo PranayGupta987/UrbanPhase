@@ -1,0 +1,14 @@
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# Core ML deps
+numpy
+pillow
+opencv-python
+scikit-learn
+
+# Graph utils
+networkx
+
+# Pytorch Geometric wheels will be installed manually

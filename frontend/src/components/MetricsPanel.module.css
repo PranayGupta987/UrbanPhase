@@ -1,0 +1,89 @@
+.panelRoot {
+  max-width: 520px;
+  width: 100%;
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  background-color: #ffffff;
+  box-shadow: 0 20px 45px rgba(15, 23, 42, 0.35);
+  box-sizing: border-box;
+  opacity: 0;
+  transform: translateY(8px);
+  animation: fadeInUp 260ms ease-out forwards;
+}
+
+.header {
+  margin-bottom: 1rem;
+  color: #111827;
+}
+
+.title {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: stretch;
+  justify-items: stretch;
+}
+
+.card {
+  background-color: #f9fafb;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 88px;
+}
+
+.cardHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.25rem;
+  color: #4b5563;
+}
+
+.label {
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.2;
+  word-break: break-word;
+}
+
+.valueRow {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.25rem;
+}
+
+.value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.unit {
+  font-size: 0.75rem;
+  color: #6b7280;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 900px) {
+  .panelRoot {
+    max-width: 100%;
+  }
+}

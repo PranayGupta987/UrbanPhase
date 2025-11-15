@@ -1,0 +1,19 @@
+Simulating policy scenarios...
+
+  Scenario 1: Reduce private vehicles by 15% through congestion pricing
+  ✓ Confidence: 0.492
+    Traffic change: 10.02%
+    CO2 reduction: -9.0 tons/day
+    Energy change: 2 kWh
+
+  Scenario 2: Add new metro line affecting 10 zones
+  ✓ Confidence: 0.492
+    Traffic change: 6.54%
+    CO2 reduction: -1.2 tons/day
+    Energy change: -3 kWh
+
+  Scenario 3: Optimize traffic signals at 5 major intersections
+  ✓ Confidence: 0.492
+    Traffic change: 2.52%
+    CO2 reduction: -0.9 tons/day
+    Energy change: 0 kWh
