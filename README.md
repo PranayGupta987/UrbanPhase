@@ -209,7 +209,7 @@ Used by the frontend to populate map layers.
 ---
 
 ## 🧑‍💻 Team
-- **Pranay Gupta** — Machine Learning & Fullstack
+- **Pranay Gupta** 
 - **AYUSH**
 - **ANIMESH**
 - **AVNI MAHAJAN**
